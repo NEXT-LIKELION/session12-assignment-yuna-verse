@@ -1,0 +1,18 @@
+export const typeNameKR = {
+    grass: "풀",
+    psychic: "에스퍼",
+    ghost: "고스트",
+    ice: "얼음",
+    flying: "비행",
+    fairy: "페어리",
+    electric: "전기",
+    steel: "강철",
+    water: "물",
+    rock: "바위",
+    normal: "노멀",
+    ground: "땅",
+    fire: "불꽃",
+    dragon: "드래곤",
+    fairy: "페어리",
+    steel: "강철",
+};

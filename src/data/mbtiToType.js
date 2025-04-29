@@ -1,0 +1,18 @@
+export const mbtiToType = {
+    INFP: "grass",
+    INFJ: "psychic",
+    INTP: "ghost",
+    INTJ: "ice",
+    ENFP: "flying",
+    ENFJ: "fairy",
+    ENTP: "electric",
+    ENTJ: "steel",
+    ISFP: "water",
+    ISTP: "rock",
+    ISFJ: "normal",
+    ISTJ: "ground",
+    ESFP: "fire",
+    ESTP: "dragon",
+    ESFJ: "fairy",
+    ESTJ: "steel",
+};

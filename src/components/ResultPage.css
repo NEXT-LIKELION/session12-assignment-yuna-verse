@@ -1,0 +1,32 @@
+.result-container {
+    text-align: center;
+    padding: 2rem;
+}
+
+.retry-button {
+    margin-top: 2rem;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.option-button,
+.retry-button {
+    padding: 12px 24px;
+    margin: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    border: 3px solid black;
+    border-radius: 12px;
+    background-color: #e53935;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.option-button:hover,
+.retry-button:hover {
+    background-color: #c62828;
+    transform: scale(1.05);
+}
